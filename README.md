@@ -1,2 +1,2 @@
 # Bamazon
-an amazon like store front using mySQL
+an amazon like store front using node.js and mySQL
